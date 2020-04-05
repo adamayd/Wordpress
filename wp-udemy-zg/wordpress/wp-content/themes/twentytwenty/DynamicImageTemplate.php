@@ -1,0 +1,1 @@
+<?php /* Template Name: Dynamic Image Template */ ?>
